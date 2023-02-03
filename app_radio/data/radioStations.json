@@ -1,0 +1,86 @@
+[ 
+   { 
+      "stationuuid": "002", 
+      "name": "Cadena Cope", 
+      "url": "https://flucast-m02-03.flumotion.com/cope/net1.mp3", 
+      "favicon": "https://www.cope.es/apple-touch-icon-192x192.png"
+   }, 
+   { 
+      "stationuuid": "004", 
+      "name": "Los 40 Principales", 
+      "url": "https://21223.live.streamtheworld.com/LOS40.mp3", 
+      "favicon": "https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png"
+   }, 
+   { 
+      "stationuuid": "005", 
+      "name": "Cadena 100", 
+      "url": "http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3", 
+      "favicon": "https://www.cadena100.es/apple-touch-icon-192x192.png"
+   }, 
+   { 
+      "stationuuid": "006", 
+      "name": "RAC1", 
+      "url": "https://25693.live.streamtheworld.com/RAC_1.mp3", 
+      "favicon": "https://www.rac1.cat/apple-touch-icon-120x120.png"
+   },
+   { 
+      "stationuuid": "007", 
+      "name": "Los 40 Classic", 
+      "url": "https://20073.live.streamtheworld.com/LOS40_CLASSIC.mp3", 
+      "favicon": "https://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png"
+   },
+   { 
+      "stationuuid": "008", 
+      "name": "Kiss FM", 
+      "url": "https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3?wmsAuthSign=c2VydmVyX3RpbWU9MDIvMDIvMjAyMyAwNjoyMTo1NiBQTSZoYXNoX3ZhbHVlPXpVRy9xc0ZoanBYZDJ1T1F4NUtSREE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03NDY0ODQxMQ==", 
+      "favicon": "https://www.kissfm.es/wp-content/uploads/2022/03/cropped-LOGOS_KISSFM20_CC_CMYK_Logo-KISS-FM-20-Negativo-Color-1.png"
+   },
+   { 
+      "stationuuid": "009", 
+      "name": "Cadena Dial", 
+      "url": "http://25453.live.streamtheworld.com/CADENADIAL.mp3", 
+      "favicon": "https://www.cadenadial.com/wp-content/uploads/2019/09/Avatar_Dial.png"
+   },
+   { 
+      "stationuuid": "010", 
+      "name": "Los 40 Urban", 
+      "url": "https://20043.live.streamtheworld.com/LOS40_URBAN.mp3", 
+      "favicon": "https://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png"
+   },
+   { 
+      "stationuuid": "003", 
+      "name": "esRadio", 
+      "url": "http://livestreaming.esradio.fm/stream64.mp3", 
+      "favicon": "https://www.radio.es/images/broadcasts/3a/1f/10995/2/c300.png"
+   }, 
+   { 
+      "stationuuid": "011", 
+      "name": "COPE", 
+      "url": "https://flucast-m04-06.flumotion.com/cope/net1.mp3", 
+      "favicon": "https://www.cope.es/apple-touch-icon-192x192.png"
+   },
+   { 
+      "stationuuid": "012", 
+      "name": "Catalunya Radio", 
+      "url": "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3", 
+      "favicon": "https://statics.ccma.cat/img/favicons/catradio-favicon-96x96.png"
+   },
+   { 
+      "stationuuid": "013", 
+      "name": "Flaix FM", 
+      "url": "https://nodo08-cloud01.streaming-pro.com:8003/flaixfm.aacp", 
+      "favicon": "https://api.my-radios.com/images/thumb.php?countryCode=ES&name=Flaix_FM.png&size=200"
+   },
+   { 
+      "stationuuid": "014", 
+      "name": "Radiolé", 
+      "url": "https://20103.live.streamtheworld.com/RADIOLE.mp3", 
+      "favicon": "https://static.mytuner.mobi/media/tvos_radios/hp9JgkDT82.png"
+   },
+   { 
+      "stationuuid": "001", 
+      "name": "Cadena SER", 
+      "url": "http://20043.live.streamtheworld.com/CADENASER.mp3", 
+      "favicon": "https://cadenaser.com/pf/resources/img/favicon.png?d=320"
+   }
+]
